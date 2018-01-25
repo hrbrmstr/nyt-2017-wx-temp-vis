@@ -13,6 +13,8 @@ There’s a basic plotting function (below) to mimic the main graph,
 including the legend (which is built with a picture grob vs a plethora
 of ggplot2 annotation code).
 
+NOTE: NYT had data in &degF so the data here is in &degF;
+
 <img src="README_files/figure-gfm/portland_me-1.png" width="960" />
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
